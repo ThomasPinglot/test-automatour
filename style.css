@@ -1,0 +1,51 @@
+h1
+{
+	color: red;
+}
+
+body
+{
+	background-color: grey;
+	margin:60px;
+}
+
+ul li
+{
+    list-style-type: none;
+}
+
+p
+{
+    font-family: Arial;   <! -- ... -->
+}
+
+.brd 
+{ 
+  border: 10px solid black;
+}
+style 
+{ 
+  border: 1px dashed black;
+  display:block;
+}
+
+#fond
+{
+
+	width: 1200px;
+	margin:0 auto;
+	background-color: grey;
+	align-content: center;
+}
+
+#header
+{
+	height:100px;
+	background:#2F2F2E;
+}
+
+#header2
+{
+	height:102px;
+	background-color: pink; 
+}
